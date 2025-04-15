@@ -1,2 +1,0 @@
-# trainningAPI
-practing RESTFUL
