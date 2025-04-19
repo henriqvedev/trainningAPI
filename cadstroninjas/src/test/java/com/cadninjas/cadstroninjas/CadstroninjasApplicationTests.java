@@ -1,10 +1,10 @@
-package com.basico.springzando;
+package com.cadninjas.cadstroninjas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringzandoApplicationTests {
+class CadstroninjasApplicationTests {
 
 	@Test
 	void contextLoads() {
